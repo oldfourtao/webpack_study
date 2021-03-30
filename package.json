@@ -1,0 +1,26 @@
+{
+  "name": "webpac_study",
+  "version": "1.0.0",
+  "description": "webpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oldfourtao/webpack_study.git"
+  },
+  "keywords": [
+    "webpack"
+  ],
+  "author": "zhangtao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oldfourtao/webpack_study/issues"
+  },
+  "homepage": "https://github.com/oldfourtao/webpack_study#readme",
+  "dependencies": {
+    "webpack": "^5.28.0",
+    "webpack-cli": "^4.6.0"
+  }
+}
